@@ -1,0 +1,3 @@
+[submodule "任务调研/大模型驱动的智能无人机应用开发课程/airsim_agent"]
+	path = 任务调研/大模型驱动的智能无人机应用开发课程/airsim_agent
+	url = https://github.com/maris205/airsim_agent
